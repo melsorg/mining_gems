@@ -57,7 +57,7 @@ jobs:
           :verbose: true  
           EOM
       - name: Install Gem
-        run: gem install sms --version "0.3.0"
+        run: gem install awesome_gem --version "0.0.0"
 
       - name: Add main.rb
         run: |
